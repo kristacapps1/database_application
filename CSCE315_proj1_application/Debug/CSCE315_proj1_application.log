@@ -1,0 +1,4 @@
+﻿  json_parser.cpp
+c:\users\unikitty\source\repos\csce315_proj1_application\csce315_proj1_application\json_parser.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  CSCE315_proj1_application.vcxproj -> C:\Users\UniKitty\source\repos\CSCE315_proj1_application\Debug\CSCE315_proj1_application.exe
+  CSCE315_proj1_application.vcxproj -> C:\Users\UniKitty\source\repos\CSCE315_proj1_application\Debug\CSCE315_proj1_application.pdb (Partial PDB)
