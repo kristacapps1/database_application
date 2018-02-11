@@ -13,9 +13,10 @@ The project inclusdes a Visual Studio project file
 and can be built through this.
 
 Details:  
-This Database library lib file was given to me from another team. Their  
-library requires the use of C++ Boost library, which must be installed  
-before running this application.  
+The Database library lib file requires the use of C++ Boost  
+library, which must be installed before running this application.  
+Documentation and installation can be found at:
+http://www.boost.org
 
 The source files include small samples of the Yelp Json files,  
 as the full files could not be checked in to Git.  
