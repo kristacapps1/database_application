@@ -1,5 +1,5 @@
 ###################################################  
-# SQL-style Database Application  
+SQL-style Database Application  
 ###################################################  
   
 Application to load and display yelp data from JSON files,  
